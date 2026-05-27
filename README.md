@@ -4,7 +4,7 @@ An interactive, cinematic data visualization platform designed to act as a visua
 
 Built using historical data from the Himalayan Database (1905–2024), this project translates 11,425 expeditions, 89,000 climbers, and 1,158 fatalities into actionable actuarial intelligence for non-life insurance modeling.
 
-🔗 [View the Live Dashboard Here](Insert your GitHub Pages link here once deployed)
+🔗 [View the Live Dashboard Here](https://junayedparves.github.io/himalayan_expedition/)
 
 🎯 Business Context & Actuarial Insights
 
