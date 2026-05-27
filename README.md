@@ -36,6 +36,15 @@ Animations: GSAP (ScrollTrigger) & Vanilla JavaScript (Custom Canvas Snowfall)
 
 Data Processing: JavaScript (Data aggregated and mapped from raw exped.csv, peaks.csv, and members.csv flat files).
 
+MOST IMPORTANT INSURANCE USERS OF THIS DASHBOARD
+1. Underwriters (Risk pricing).
+2. Actuaries (Fatality modeling).
+3. Claims Teams (Rescue analysis).
+4. Reinsurers (Catastrophe exposure).
+5. Product Teams (New insurance products).
+6. Brokers(Client risk advisory).
+7. Adventure Tourism Companies (Operational planning).
+
 
 👨‍💻 About the Author
 
